@@ -1,1 +1,1 @@
-# C-console-app
+	TYPERO is an application designed to help you improving your typing skills. It has 3 Levels of difficulty depending on each typing speed. The international standard typing speed is measured in Words Per Minute(wpm) wich are the corrected (CPM) Charachters Per Minute divided by 5.  Would you like to take a test to see what is your typing speed and what level is suitable for you? By saying yes(y) an short prompt test will be shown on the screen and you will need to start typing until you see the message "THE END". If you want to start practice press any key.
