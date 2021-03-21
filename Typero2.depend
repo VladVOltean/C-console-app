@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1584109331 source:c:\users\vlad\documents\c++\typero2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+	<ctime>
+	<conio.h>
+	<time.h>
+	<cmath>
+	"typehead.h"
+
+1584109825 source:c:\users\vlad\documents\c++\typero2\learning_fuction.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<conio.h>
+	<time.h>
+	<cmath>
+	<cstdlib>
+	"typehead.h"
+
+1584103624 source:c:\users\vlad\documents\c++\typero2\test_function.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<cstdlib>
+	"typehead.h"
+
+1584104454 source:c:\users\vlad\documents\c++\typero2\get_file&lesson.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+	<ctime>
+	<conio.h>
+	<time.h>
+
+1584104251 c:\users\vlad\documents\c++\typero2\typehead.h
+
